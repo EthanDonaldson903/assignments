@@ -6,6 +6,7 @@
 . Draw a clear figure and show all the operations clearly.**
 
 See picture shown in video portion for assignment on canvas.
+![image](https://github.com/user-attachments/assets/20120e5b-0083-4a2c-9549-9e7b70efdc75)
 
 
 
